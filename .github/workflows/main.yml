@@ -1,5 +1,5 @@
 name: project2
-on: 
+on:
   push:
     branches:
       - dev1
