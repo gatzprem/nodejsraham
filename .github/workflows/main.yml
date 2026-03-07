@@ -1,5 +1,5 @@
 name: CI-CD Pipeline
- 
+
 on:
   push:
     branches:
@@ -7,7 +7,7 @@ on:
 
 env:
   APP_PORT: 3000
-  IMAGE_NAME: rahamshaik/gabrimage
+  IMAGE_NAME: gatzprem/gabrimage
   CONTAINER_NAME: gabr1_app
 
 jobs:
